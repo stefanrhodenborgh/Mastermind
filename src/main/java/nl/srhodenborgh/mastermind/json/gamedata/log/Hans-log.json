@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Hans",
+    "turn": 1,
+    "userInput": "abbb",
+    "score": [
+      "+",
+      "_",
+      "?",
+      "+"
+    ]
+  }
+]
