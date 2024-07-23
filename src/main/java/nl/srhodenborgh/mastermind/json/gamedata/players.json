@@ -1,0 +1,35 @@
+[
+  {
+    "name": "Peter",
+    "turn": 12,
+    "gameCompleted": true,
+    "solution": [
+      "b",
+      "a",
+      "f",
+      "f"
+    ]
+  },
+  {
+    "name": "Hans",
+    "turn": 1000,
+    "gameCompleted": false,
+    "solution": [
+      "b",
+      "f",
+      "b",
+      "b"
+    ]
+  },
+  {
+    "name": "Karel",
+    "turn": 1000,
+    "gameCompleted": false,
+    "solution": [
+      "b",
+      "e",
+      "e",
+      "d"
+    ]
+  }
+]

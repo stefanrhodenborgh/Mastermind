@@ -1,0 +1,134 @@
+[
+  {
+    "name": "Peter",
+    "turn": 1,
+    "userInput": "aaaa",
+    "score": [
+      "_",
+      "_",
+      "+",
+      "_"
+    ]
+  },
+  {
+    "name": "Peter",
+    "turn": 2,
+    "userInput": "abca",
+    "score": [
+      "_",
+      "_",
+      "?",
+      "?"
+    ]
+  },
+  {
+    "name": "Peter",
+    "turn": 3,
+    "userInput": "cfae",
+    "score": [
+      "?",
+      "_",
+      "?",
+      "?"
+    ]
+  },
+  {
+    "name": "Peter",
+    "turn": 4,
+    "userInput": "afbe",
+    "score": [
+      "?",
+      "?",
+      "?",
+      "?"
+    ]
+  },
+  {
+    "name": "Peter",
+    "turn": 5,
+    "userInput": "fabe",
+    "score": [
+      "+",
+      "?",
+      "?",
+      "?"
+    ]
+  },
+  {
+    "name": "Peter",
+    "turn": 6,
+    "userInput": "feba",
+    "score": [
+      "?",
+      "?",
+      "?",
+      "?"
+    ]
+  },
+  {
+    "name": "Peter",
+    "turn": 7,
+    "userInput": "baef",
+    "score": [
+      "+",
+      "+",
+      "_",
+      "+"
+    ]
+  },
+  {
+    "name": "Peter",
+    "turn": 8,
+    "userInput": "baef",
+    "score": [
+      "+",
+      "+",
+      "+",
+      "_"
+    ]
+  },
+  {
+    "name": "Peter",
+    "turn": 9,
+    "userInput": "bafe",
+    "score": [
+      "+",
+      "+",
+      "+",
+      "_"
+    ]
+  },
+  {
+    "name": "Peter",
+    "turn": 10,
+    "userInput": "baee",
+    "score": [
+      "_",
+      "_",
+      "+",
+      "+"
+    ]
+  },
+  {
+    "name": "Peter",
+    "turn": 11,
+    "userInput": "badd",
+    "score": [
+      "+",
+      "_",
+      "_",
+      "+"
+    ]
+  },
+  {
+    "name": "Peter",
+    "turn": 12,
+    "userInput": "baff",
+    "score": [
+      "+",
+      "+",
+      "+",
+      "+"
+    ]
+  }
+]
