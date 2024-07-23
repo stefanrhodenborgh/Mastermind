@@ -12,7 +12,7 @@
   },
   {
     "name": "Hans",
-    "turn": 1000,
+    "turn": 2,
     "gameCompleted": false,
     "solution": [
       "b",
